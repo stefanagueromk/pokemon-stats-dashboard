@@ -1,4 +1,4 @@
-# Pokémon Statistics Dashboard
+# Pokémon Statistics Dashboard.
 
 This project features a ** Workbook** with different visualizations for analyzing Pokémon statistics, including Attack, Defense, Speed, HP, and Total.
 
